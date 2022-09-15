@@ -1,0 +1,21 @@
+{
+    "name": "svelte-native",
+    "version": "1.0.4",
+    "description": "Svelte integration for NativeScript",
+    "license": "MIT",
+    "peerDependencies": {
+        "@nativescript/core": "^8.3.4",
+        "svelte": "^3.50.1"
+    },
+    "keywords": [
+        "nativescript",
+        "svelte"
+    ],
+    "homepage": "https://github.com/jasongitaccount/svelte-native",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jasongitaccount/svelte-native.git"
+    },
+    "main": "index.js",
+    "types": "index.d.ts"
+}
